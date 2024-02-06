@@ -1,0 +1,17 @@
+| "200" ; Section 10.2.1: OK
+| "505" ; Section 10.5.6: HTTP Version not supported
+| "405" ; Section 10.4.6: Method Not Allowed
+| "404" ; Section 10.4.5: Not Found
+| "400" ; Section 10.4.1: Bad Request
+| "204" ; Section 10.2.5: No Content
+| "202" ; Section 10.2.3: Accepted| "200" ; Section 10.2.1: OK
+| "505" ; Section 10.5.6: HTTP Version not supported
+| "200" ; Section 10.2.1: OK
+| "505" ; Section 10.5.6: HTTP Version not supported
+| "405" ; Section 10.4.6: Method Not Allowed
+| "404" ; Section 10.4.5: Not Found
+| "400" ; Section 10.4.1: Bad Request
+| "204" ; Section 10.2.5: No Content
+| "202" ; Section 10.2.3: Accepted| "200" ; Section 10.2.1: OK
+| "505" ; Section 10.5.6: HTTP Version not supported
+--------------------------------------------------------------
